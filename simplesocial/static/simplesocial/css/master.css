@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  color:#737373;
+}
+.navbar{
+font-size: small;
+}
+
+.navbar-brand
+{
+color: red;
+font-size: large;
+}
+.rounded {
+  border-radius: 10000px;
+}
